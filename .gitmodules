@@ -1,0 +1,3 @@
+[submodule "screenshotapp"]
+	path = screenshotapp
+	url = git@github.com:joceqo/screenshotapp.git
