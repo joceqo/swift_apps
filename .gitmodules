@@ -1,3 +1,6 @@
 [submodule "screenshotapp"]
 	path = screenshotapp
 	url = git@github.com:joceqo/screenshotapp.git
+[submodule "quiz"]
+	path = quiz
+	url = git@github.com:joceqo-ios/quiz.git
