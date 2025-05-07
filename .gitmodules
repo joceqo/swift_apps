@@ -4,3 +4,6 @@
 [submodule "quiz"]
 	path = quiz
 	url = git@github.com:joceqo-ios/quiz.git
+[submodule "hacking-with-macos"]
+	path = hacking-with-macos
+	url = git@github.com:joceqo-ios/hacking-with-macos.git
